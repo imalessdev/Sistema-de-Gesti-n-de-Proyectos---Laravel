@@ -37,11 +37,16 @@
 
         <p class="nav-title">Principal</p>
         <a href="{{ route('dashboard') }}" class="{{ request()->routeIs('dashboard') ? 'active' : '' }}">
+<<<<<<< HEAD
             Dashboard
+=======
+            📊 Dashboard
+>>>>>>> 88d4633176a6c74f1edbc51bdeb0715a1cfedb93
         </a>
 
         <p class="nav-title">Gestión</p>
         <a href="{{ route('clientes.index') }}" class="{{ request()->routeIs('clientes.*') ? 'active' : '' }}">
+<<<<<<< HEAD
             Clientes
         </a>
         <a href="{{ route('proyectos.index') }}" class="{{ request()->routeIs('proyectos.*') ? 'active' : '' }}">
@@ -53,6 +58,19 @@
 
         <p class="nav-title">Reportes</p>
         <a href="{{ route('reportes.index') }}" class="{{ request()->routeIs('reportes.*') ? 'active' : '' }}">Reportes PDF</a>
+=======
+            👥 Clientes
+        </a>
+        <a href="{{ route('proyectos.index') }}" class="{{ request()->routeIs('proyectos.*') ? 'active' : '' }}">
+            📁 Proyectos
+        </a>
+        <a href="{{ route('tareas.index') }}" class="{{ request()->routeIs('tareas.*') ? 'active' : '' }}">
+            ✅ Tareas
+        </a>
+
+        <p class="nav-title">Reportes</p>
+        <a href="#">📄 Generar PDF</a>
+>>>>>>> 88d4633176a6c74f1edbc51bdeb0715a1cfedb93
     </div>
 
     <!-- Contenido principal -->
@@ -90,4 +108,8 @@
     </div>
 
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 88d4633176a6c74f1edbc51bdeb0715a1cfedb93

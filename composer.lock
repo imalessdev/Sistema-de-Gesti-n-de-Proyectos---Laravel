@@ -4,6 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "60cd46715c236b979e61faae8522689d",
     "packages": [
         {
@@ -84,6 +85,11 @@
             "time": "2026-02-21T08:51:10+00:00"
         },
         {
+=======
+    "content-hash": "fc2407b1a509d7fcbbc5146f46a2c921",
+    "packages": [
+        {
+>>>>>>> 88d4633176a6c74f1edbc51bdeb0715a1cfedb93
             "name": "brick/math",
             "version": "0.14.8",
             "source": {
@@ -455,6 +461,7 @@
             "time": "2024-02-05T11:56:58+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "dompdf/dompdf",
             "version": "v3.1.5",
             "source": {
@@ -610,6 +617,8 @@
             "time": "2026-01-02T16:01:13+00:00"
         },
         {
+=======
+>>>>>>> 88d4633176a6c74f1edbc51bdeb0715a1cfedb93
             "name": "dragonmantank/cron-expression",
             "version": "v3.6.0",
             "source": {
@@ -2258,6 +2267,7 @@
             "time": "2026-03-08T20:05:35+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "masterminds/html5",
             "version": "2.10.0",
             "source": {
@@ -2325,6 +2335,8 @@
             "time": "2025-07-25T09:04:22+00:00"
         },
         {
+=======
+>>>>>>> 88d4633176a6c74f1edbc51bdeb0715a1cfedb93
             "name": "monolog/monolog",
             "version": "3.10.0",
             "source": {
@@ -3600,6 +3612,7 @@
             "time": "2025-12-14T04:43:48+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "sabberworm/php-css-parser",
             "version": "v9.3.0",
             "source": {
@@ -3680,6 +3693,8 @@
             "time": "2026-03-03T17:31:43+00:00"
         },
         {
+=======
+>>>>>>> 88d4633176a6c74f1edbc51bdeb0715a1cfedb93
             "name": "symfony/clock",
             "version": "v7.4.8",
             "source": {
@@ -6189,6 +6204,7 @@
             "time": "2026-03-30T13:44:50+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "thecodingmachine/safe",
             "version": "v3.4.0",
             "source": {
@@ -6332,6 +6348,8 @@
             "time": "2026-02-04T18:08:13+00:00"
         },
         {
+=======
+>>>>>>> 88d4633176a6c74f1edbc51bdeb0715a1cfedb93
             "name": "tijsverkoyen/css-to-inline-styles",
             "version": "v2.4.0",
             "source": {

@@ -7,7 +7,10 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+<<<<<<< HEAD
         "barryvdh/laravel-dompdf": "^3.1",
+=======
+>>>>>>> 88d4633176a6c74f1edbc51bdeb0715a1cfedb93
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1"
     },
@@ -81,8 +84,12 @@
         "allow-plugins": {
             "pestphp/pest-plugin": true,
             "php-http/discovery": true
+<<<<<<< HEAD
         },
         "secure-http": false
+=======
+        }
+>>>>>>> 88d4633176a6c74f1edbc51bdeb0715a1cfedb93
     },
     "minimum-stability": "stable",
     "prefer-stable": true
